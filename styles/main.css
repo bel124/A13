@@ -297,3 +297,78 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+
+/* the h1 styles for exercise 5-1*/
+/*main h1 {
+	font-size: 150%;
+    border-top: 3px solid #931420;
+    border-bottom: 3px solid #931420;
+    padding: .3em 0;
+}
+
+/* the styles for the main content */
+
+
+/*main {
+   clear: left;
+   padding-left: 30px;
+   padding-right: 30px;
+
+}
+
+   /* H1 style for 5-2*/
+
+/*main h1 {
+	font-size: 150%;
+    border: 3px double #800000;
+    margin-bottom: : .75em;
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    padding: .5em 0 .5em 2em;
+    background-color: white;
+
+}
+
+main h2 {
+	color: #800000;
+	font-size: 130%;
+    padding-top: .5em;
+    padding-bottom: .25em;
+
+}
+main h3 {
+	font-size: 105%;
+    padding-bottom: .25em;
+}
+
+main p{
+    padding-bottom: .5em;
+}
+
+main image{
+    padding-bottom: 1em;
+}
+
+main ul{
+    padding-bottom: .25em;
+    padding-left: 1.24em;
+}
+
+main li{
+    padding-bottom: .35em;
+
+}*/
+/* for 5-1 and 5-2*/
+
+/* the styles for the footer */
+/* for 5-1 and 5-2*/
+/*footer p {
+	text-align: center;
+    border: 3px solid #931420;
+    background-color: #931420;
+    color: white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+} */
+
